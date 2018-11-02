@@ -22,6 +22,9 @@ def vertrekTijd(code):
         vertrekList.append(str)
     return vertrekList
 
+#reisinformatie Utrecht
+def reisInfoUtrecht():
+    reisInformatie('ut')
 
 
 
